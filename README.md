@@ -1,2 +1,11 @@
 # E-commerce-Customer-Analysis
-Drawing insights from regression model to guide a client to right marketing direction
+
+This project is for academic learning and reviewing concepts related to Linear Regression.
+
+E-commerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
+
+The company is trying to decide whether to focus their efforts on their mobile app experience or their website. Using regression modeling to figure out the direction for the company.
+
+
+*Data used in this project is not a real-world data
+*Inspired by: Data Science Online Lecture by Jose Portilla from Udemy
